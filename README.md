@@ -1,5 +1,7 @@
 # DjangoPortfolio
  Minimalist Portfolio made in Python with Django
+ 
+ To run it, use : python manage.py runserver
 
 ![port1](https://user-images.githubusercontent.com/85309955/124278210-44005c00-db46-11eb-8ab5-4cef8a463743.gif)
 
