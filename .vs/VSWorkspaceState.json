@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\images",
+    "\\jobs",
+    "\\jobs\\migrations",
+    "\\jobs\\static",
+    "\\jobs\\templates",
+    "\\jobs\\templates\\jobs",
+    "\\portfolio"
+  ],
+  "SelectedNode": "\\images\\chess.png",
+  "PreviewInSolutionExplorer": false
+}
